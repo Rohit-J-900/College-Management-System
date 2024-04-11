@@ -1,6 +1,6 @@
 <?php
 $id="";
-$opr=""; 
+$opr="";
 if(isset($_GET['opr']))
 	$opr=$_GET['opr'];
 
