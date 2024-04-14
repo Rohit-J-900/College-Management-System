@@ -3,7 +3,7 @@
 		require("conection/connect.php");
 	
 	$msg="";
-	if(isset($_POST['btn_log'])){
+	if(isset($_POST['btn_log'])){ 
 		$uname=$_POST['unametxt'];
 		$pwd=$_POST['pwdtxt'];
 		
