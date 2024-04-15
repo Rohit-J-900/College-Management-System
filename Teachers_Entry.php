@@ -8,7 +8,7 @@
 	$opr=$_GET['opr'];}
 	
 if(isset($_GET['rs_id'])){
-	$id=$_GET['rs_id'];} 
+	$id=$_GET['rs_id'];}
 	
 //--------------add data-----------------
 if(isset($_POST['btn_sub'])){
