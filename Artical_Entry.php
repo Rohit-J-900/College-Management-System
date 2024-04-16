@@ -5,7 +5,7 @@ if(isset($_GET['opr']))
 	$opr=$_GET['opr'];
 
 if(isset($_GET['rs_id']))
-	$id=$_GET['rs_id'];
+	$id=$_GET['rs_id']; 
 
 if(isset($_POST['btn_sub'])){
 	$lid=$_POST['sudenttxt'];
