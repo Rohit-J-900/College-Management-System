@@ -1,5 +1,5 @@
 <?php
-	$msg="";
+	$msg=""; 
 	$opr="";
 	if(isset($_GET['opr']))
 	$opr=$_GET['opr'];
