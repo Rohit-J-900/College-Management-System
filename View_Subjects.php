@@ -1,4 +1,4 @@
- <?php
+<?php
 	$msg="";
 	$opr="";
 	if(isset($_GET['opr'])) 
