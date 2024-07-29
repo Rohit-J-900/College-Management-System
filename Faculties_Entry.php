@@ -1,4 +1,4 @@
-      <?php
+       <?php
 $id="";
 $opr="";
 if(isset($_GET['opr']))
